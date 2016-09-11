@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rain&#39;s Blog</title>
+  <subtitle>心有猛虎，细嗅蔷薇</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://rain0413.github.io/"/>
+  <updated>2016-09-10T12:15:13.702Z</updated>
+  <id>https://rain0413.github.io/</id>
+  
+  <author>
+    <name>Rain</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>one</title>
+    <link href="https://rain0413.github.io/2016/09/10/one/"/>
+    <id>https://rain0413.github.io/2016/09/10/one/</id>
+    <published>2016-09-10T11:59:57.000Z</published>
+    <updated>2016-09-10T12:15:13.702Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="android" scheme="https://rain0413.github.io/categories/android/"/>
+    
+    
+  </entry>
+  
+</feed>
